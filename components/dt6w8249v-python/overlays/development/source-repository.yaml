@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: dt6w8249v-python-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/dt6w8249v-python
